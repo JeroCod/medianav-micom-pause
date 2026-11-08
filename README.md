@@ -1,3 +1,5 @@
+**Français** · [English](README.en.md)
+
 # MediaNav Evolution — outils Windows CE (dBoot 1.5)
 
 Deux petits outils de reverse engineering pour les autoradios **MediaNav Evolution**
