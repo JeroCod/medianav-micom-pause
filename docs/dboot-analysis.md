@@ -1,3 +1,5 @@
+**Français** · [English](dboot-analysis.en.md)
+
 # dBoot 1.5 — séquence de démarrage et bascule Windows CE
 
 Analyse statique de `dboot.exe` et `dmenu.exe` (dBoot 1.5, MediaNav Evolution,

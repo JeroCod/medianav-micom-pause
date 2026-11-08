@@ -1,3 +1,5 @@
+**Français** · [English](micom-protocol.en.md)
+
 # Protocole MICOM et signal de vie
 
 Le MICOM est le micro-contrôleur de l'unité MediaNav. L'application MediaNav lui parle

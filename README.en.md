@@ -60,12 +60,10 @@ plugged in, it writes no log but keeps sending the signal.
 
 ## How it works
 
-- `docs/dboot-analysis.md` — what dBoot 1.5 does at startup, where the Windows CE
+- `docs/dboot-analysis.en.md` — what dBoot 1.5 does at startup, where the Windows CE
   switch lives, and the patched regions.
-- `docs/micom-protocol.md` — the MICOM serial frame format and the keep-alive
+- `docs/micom-protocol.en.md` — the MICOM serial frame format and the keep-alive
   sequence that pauses the watchdog.
-
-(Both reference docs are in French for now; the code and this overview are in English.)
 
 ## Safety — read before touching anything
 
